@@ -36,6 +36,6 @@ img{
 }
 #block_three{
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     background-color: brown;
 }
