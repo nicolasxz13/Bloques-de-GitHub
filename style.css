@@ -1,0 +1,41 @@
+body,header,section{
+    background-color: antiquewhite;
+}
+header h1{
+    color:black;
+    text-align: center;
+}
+header{
+    border-top: 2px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: black;
+}
+.row{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 20px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#block_one{
+    align-items: center;
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+#block_two{
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+}
+#block_three{
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: brown;
+}
